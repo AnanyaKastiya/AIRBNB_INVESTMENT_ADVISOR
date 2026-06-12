@@ -1,6 +1,6 @@
 # 🏠 Airbnb Investment Advisor
 
-**Airbnb Investment Advisor** is an interactive web application that helps users explore Airbnb market data and identify promising investment opportunities through data-driven insights and location-based analysis.
+**Airbnb Investment Advisor** is an interactive web application that helps users explore Airbnb market data of London and identify promising investment opportunities through data-driven insights and location-based analysis.
 
 🌐 **Live Website:** https://airbnbinvestmentadvisor-xyz.streamlit.app/
 
